@@ -1,0 +1,5 @@
+com/github/quxiucheng/calcite/validator/tutorial/DefaultNullCollationSample.class
+com/github/quxiucheng/calcite/validator/tutorial/CallRewriteSample.class
+com/github/quxiucheng/calcite/validator/tutorial/ColumnReferenceExpansionSample.class
+com/github/quxiucheng/calcite/validator/tutorial/IdentifierExpansionSample.class
+com/github/quxiucheng/calcite/validator/tutorial/ValidateSample.class

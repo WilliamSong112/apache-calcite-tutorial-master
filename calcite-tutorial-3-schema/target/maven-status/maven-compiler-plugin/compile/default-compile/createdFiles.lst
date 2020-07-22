@@ -1,0 +1,7 @@
+com/github/quxiucheng/calcite/schema/tutorial/ModelHandlerTest.class
+com/github/quxiucheng/calcite/schema/tutorial/TutorialColumn.class
+com/github/quxiucheng/calcite/schema/tutorial/TutorialSchemaFactory.class
+com/github/quxiucheng/calcite/schema/tutorial/TutorialTableSchema.class
+com/github/quxiucheng/calcite/schema/tutorial/TutorialTableFactory.class
+com/github/quxiucheng/calcite/schema/tutorial/ConnectionFactoryTest.class
+com/github/quxiucheng/calcite/schema/tutorial/TutorialTable.class

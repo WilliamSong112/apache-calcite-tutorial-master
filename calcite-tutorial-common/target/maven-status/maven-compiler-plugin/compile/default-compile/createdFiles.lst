@@ -1,0 +1,15 @@
+com/github/quxiucheng/tutorial/common/data/TutorialTableSchema.class
+com/github/quxiucheng/tutorial/common/sql2rel/TutorialSqlToRelConverter.class
+com/github/quxiucheng/tutorial/common/data/TutorialColumn.class
+com/github/quxiucheng/tutorial/common/parser/SqlParserBase.class
+com/github/quxiucheng/tutorial/common/validate/TutorialSqlValidator.class
+com/github/quxiucheng/tutorial/common/cost/TutorialRelOptCost.class
+com/github/quxiucheng/tutorial/common/function/DedupFunction$1.class
+com/github/quxiucheng/tutorial/common/function/DedupFunction.class
+com/github/quxiucheng/tutorial/common/function/DedupTableFunctionReturnTypeInference.class
+com/github/quxiucheng/tutorial/common/catalog/TutorialCalciteCatalogReader.class
+com/github/quxiucheng/tutorial/common/data/MockData.class
+com/github/quxiucheng/tutorial/common/sql2rel/SqlToRelBase.class
+com/github/quxiucheng/tutorial/common/sql2rel/SqlToRelConverterBase.class
+com/github/quxiucheng/tutorial/common/data/TutorialTable.class
+com/github/quxiucheng/tutorial/common/data/TutorialStatistic.class
